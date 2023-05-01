@@ -1,0 +1,9 @@
+Lecture - 1
+INTRODUCTION TO UNIX SYSTEM CALLS:
+
+HISTORY:
+Lowest layer of hardware
+MULTICS - 
+UNIX - File System - On-disk data structure interface 
+fork()
+exec()
